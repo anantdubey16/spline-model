@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/spline-model/static/css/main.296d083c.chunk.css",
+    "main.js": "/spline-model/static/js/main.08231b11.chunk.js",
+    "main.js.map": "/spline-model/static/js/main.08231b11.chunk.js.map",
+    "runtime-main.js": "/spline-model/static/js/runtime-main.21b521df.js",
+    "runtime-main.js.map": "/spline-model/static/js/runtime-main.21b521df.js.map",
+    "static/js/2.abd41327.chunk.js": "/spline-model/static/js/2.abd41327.chunk.js",
+    "static/js/2.abd41327.chunk.js.map": "/spline-model/static/js/2.abd41327.chunk.js.map",
+    "static/js/3.f9e5fbbd.chunk.js": "/spline-model/static/js/3.f9e5fbbd.chunk.js",
+    "static/js/3.f9e5fbbd.chunk.js.map": "/spline-model/static/js/3.f9e5fbbd.chunk.js.map",
+    "static/js/4.ddb6abbd.chunk.js": "/spline-model/static/js/4.ddb6abbd.chunk.js",
+    "static/js/4.ddb6abbd.chunk.js.map": "/spline-model/static/js/4.ddb6abbd.chunk.js.map",
+    "static/js/5.1b4bb3ee.chunk.js": "/spline-model/static/js/5.1b4bb3ee.chunk.js",
+    "static/js/5.1b4bb3ee.chunk.js.map": "/spline-model/static/js/5.1b4bb3ee.chunk.js.map",
+    "static/js/6.518fb1f4.chunk.js": "/spline-model/static/js/6.518fb1f4.chunk.js",
+    "static/js/6.518fb1f4.chunk.js.map": "/spline-model/static/js/6.518fb1f4.chunk.js.map",
+    "index.html": "/spline-model/index.html",
+    "static/css/main.296d083c.chunk.css.map": "/spline-model/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.abd41327.chunk.js.LICENSE.txt": "/spline-model/static/js/2.abd41327.chunk.js.LICENSE.txt",
+    "static/js/5.1b4bb3ee.chunk.js.LICENSE.txt": "/spline-model/static/js/5.1b4bb3ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b521df.js",
+    "static/js/2.abd41327.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.08231b11.chunk.js"
+  ]
+}
